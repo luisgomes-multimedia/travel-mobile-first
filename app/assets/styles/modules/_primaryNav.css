@@ -1,0 +1,26 @@
+.primaryNav {
+
+   &--pull-right {
+      float: right;
+      /*display: inline;*/
+   }
+
+   ul {
+      margin: 0;
+      padding: 0;
+   }
+
+   li {
+      list-style: none;
+      display: inline;
+      padding-right: 20px;
+   }
+
+   a {
+      color: white;
+      text-decoration: none;
+      font-weight: 300;
+      display: inline-block;
+      padding: 12px 0;
+   }
+}
