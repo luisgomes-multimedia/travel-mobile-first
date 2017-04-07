@@ -1,1 +1,3 @@
-console.log('ready!');
+import MobileMenu from "./modules/MobileMenu";
+
+let mobileMenu = new MobileMenu();
